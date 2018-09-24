@@ -12,6 +12,5 @@ public class TesteConexao {
          ConexaoBancoDados.getConexaoMySQL();
          System.out.println("Conexão aberta!");
          
-    
     }
 }
